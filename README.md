@@ -1,3 +1,3 @@
-hello...
+hello!
 
-my name is maleah smith (s/her) | comp sci undergrad @ UC Irvine, class of '25
+my name is maleah smith (she/her) | recent comp sci grad & digital arts minor @ UC Irvine, class of '25

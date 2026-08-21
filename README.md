@@ -1,8 +1,24 @@
-# welcome to my profile!
+# Welcome to my profile!
 
-my name is maleah smith (she/her). i'm a recent comp sci grad & digital arts minor @ UC Irvine, class of '25.
+## About Me
+My name is Maleah Smith (she/her)!
+- 🎓 UC Irvine Class of 2025, B.S. in Computer Science, minor in Digital Arts
+- 📍 Southern California, LA County
+- 💻 Currently working on [StudySpotter](https://studyspotter.app/) and volunteering for [Hack for LA](https://www.hackforla.org/)
+- 🔍 Seeking junior employment opportunities
 
-i'm currently based in socal in la county, working on side projects and open source projects alike. my interests stem in data ingestion pipelines, insights tools, and a budding interest in data analytics.
+Thanks for visiting my GitHub profile! I'm a college graduate working on side projects and open source contributions. My interests stem in data ingestion pipelines, insights tools, and a budding interest in data analytics. I'm currently seeking new employment opportunities and I'd love to connect!
 
+Visit my portfolio site: https://maleahsmith.netlify.app/
 
-you can learn more about me on my website: https://maleahsmith.netlify.app/
+## Projects
+
+### StudySpotter
+- Find study/work-friendly spaces at cafes near you through ai-powered insights ☕️📚 
+- Technologies: Next.js, Supabase, TypeScript, Tailwind CSS, Google Places API, Gemini API, Apify
+- Webapp: [studyspotter.app/](https://studyspotter.app/)
+
+## Tech Stack
+- Languages: TypeScript, Python, HTML, CSS, Tailwind CSS, C++, PostgreSQL
+- Frameworks & Tools: React, Next.js, Docker
+

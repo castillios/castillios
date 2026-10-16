@@ -7,7 +7,7 @@ My name is Maleah Smith (she/her)!
 - 💻 Currently working on [StudySpotter](https://studyspotter.app/) and volunteering for [Hack for LA](https://www.hackforla.org/)
 - 🔍 Seeking junior employment opportunities
 
-Thanks for visiting my GitHub profile! I'm a college graduate working on side projects and open source contributions. My interests stem in data ingestion pipelines, insights tools, and a budding interest in data analytics. I'm currently seeking new employment opportunities and I'd love to connect!
+Thanks for visiting my GitHub profile! I'm a college graduate working on side projects and open source contributions. My interests stem in data ingestion pipelines, insights tools, and a budding interest in data analytics. I'd love to connect!
 
 Visit my portfolio site: https://maleahsmith.netlify.app/
 
